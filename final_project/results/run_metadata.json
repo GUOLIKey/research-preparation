@@ -1,0 +1,29 @@
+{
+  "python": "3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:11:29) [Clang 20.1.8 ]",
+  "platform": "macOS-27.2-arm64-arm-64bit-Mach-O",
+  "random_seed": 42,
+  "documents": 3295,
+  "kmeans_parameters": {
+    "algorithm": "lloyd",
+    "copy_x": true,
+    "init": "k-means++",
+    "max_iter": 300,
+    "n_clusters": 4,
+    "n_init": 20,
+    "random_state": 42,
+    "tol": 0.0001,
+    "verbose": 0
+  },
+  "silhouette_metric": "euclidean",
+  "silhouette_sample_size": 2000,
+  "silhouette_random_seed": 42,
+  "sentence_transformer": "sentence-transformers/all-MiniLM-L6-v2",
+  "maximum_sequence_length": 256,
+  "ae_final_reconstruction_loss": 0.888208868489099,
+  "vae_final_metrics": {
+    "total": 156.2472810505012,
+    "reconstruction": 154.42933510301327,
+    "kl": 1.81794518657447
+  },
+  "scope": "Unsupervised learning and evaluation on the same corpus"
+}

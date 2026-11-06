@@ -1,0 +1,5 @@
+﻿Representation,PC1 variance (%),PC2 variance (%),Total variance (%)
+TF-IDF,0.85493875,0.5901457,1.4450845
+Sentence Transformer,6.635671,3.6435347,10.279205
+AE latent,12.723372,9.972529,22.695902
+VAE latent (mu),71.187225,13.4818,84.66902
